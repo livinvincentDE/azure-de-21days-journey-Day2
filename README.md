@@ -1,6 +1,3 @@
-# 📦 Final GitHub README.md
-
-````markdown
 # 🚀 Day 2: Scalable Data Ingestion Pipeline (Microsoft Fabric)
 
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-blue)
